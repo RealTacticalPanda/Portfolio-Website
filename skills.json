@@ -1,23 +1,23 @@
 [
     {
         "name": "Computer Network Management",
-        "icon": "https://img.icons8.com/?size=100&id=UGjeZAvO94lh&format=gif"
+        "icon": "https://img.icons8.com/?size=48&id=UGjeZAvO94lh&format=gif"
     },
     {
         "name": "Operating Systems",
-        "icon": "https://img.icons8.com/?size=100&id=65990&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=65990&format=png&color=000000"
     },
     {
         "name": "Troubleshooting",
-        "icon": "https://img.icons8.com/?size=100&id=bwttfEoCRyxX&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=bwttfEoCRyxX&format=png&color=000000"
     },
     {
         "name": "Network Security",
-        "icon": "https://img.icons8.com/?size=100&id=VDqHVr4yqAe0&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=VDqHVr4yqAe0&format=png&color=000000"
     },
     {
         "name": "System Administrator",
-        "icon": "https://img.icons8.com/?size=100&id=95Yr0meAsy8B&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=95Yr0meAsy8B&format=png&color=000000"
     },
     {
         "name": "Android",
@@ -25,23 +25,23 @@
     },
     {
         "name": "Virtualization",
-        "icon": "https://img.icons8.com/?size=100&id=10495&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=10495&format=png&color=000000"
     },
     {
         "name": "Apple Mac Operating Systems",
-        "icon": "https://img.icons8.com/?size=100&id=vCiwbOh7Uo7G&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=vCiwbOh7Uo7G&format=png&color=000000"
     },
     {
         "name": "Cloud Infrastructure",
-        "icon": "https://img.icons8.com/?size=100&id=32fUGrUStbEu&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=32fUGrUStbEu&format=png&color=000000"
     },
     {
         "name": "Information Technology",
-        "icon": "https://img.icons8.com/?size=100&id=nSBfeVcn9hpX&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=nSBfeVcn9hpX&format=png&color=000000"
     },
     {
         "name": "Linux",
-        "icon": "https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=fG5Tnj4ARIoI&format=png&color=000000"
     }
     {
         "name": "HTML5",
@@ -61,11 +61,11 @@
     },
     {
         "name": "Routing Protocols",
-        "icon": "https://img.icons8.com/?size=100&id=dwSNcMhQW0VZ&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=dwSNcMhQW0VZ&format=png&color=000000"
     },
     {
         "name": "Access Control",
-        "icon": "https://img.icons8.com/?size=100&id=VY70p4Y4r0Zp&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=VY70p4Y4r0Zp&format=png&color=000000"
     },
     {
         "name": "Python",
@@ -77,15 +77,15 @@
     },
     {
         "name": "Cryptography",
-        "icon": "https://img.icons8.com/?size=100&id=4XWXV2llHSkk&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=4XWXV2llHSkk&format=png&color=000000"
     },
     {
         "name": "Malware Analysis",
-        "icon": "https://img.icons8.com/?size=100&id=ros6GU1zTWZ1&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=ros6GU1zTWZ1&format=png&color=000000"
     },
     {
         "name": "Domain Name System",
-        "icon": "https://img.icons8.com/?size=100&id=41400&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=41400&format=png&color=000000"
     },
     {
         "name": "AWS",
@@ -93,7 +93,7 @@
     },
     {
         "name": "CyberSecurity",
-        "icon": "https://img.icons8.com/?size=100&id=sywI4C9b9kIg&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=wYZphVpCWsq5&format=png&color=000000"
     },
     {
         "name": "Netlify",
@@ -101,15 +101,15 @@
     },
     {
         "name": "Computer Forensics",
-        "icon": "https://img.icons8.com/?size=100&id=IsHdDtqt9CBd&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=IsHdDtqt9CBd&format=png&color=000000"
     },
     {
         "name": "Firewalls",
-        "icon": "https://img.icons8.com/?size=100&id=i4D5H7rm91fM&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=i4D5H7rm91fM&format=png&color=000000"
     },
     {
         "name": "Virtiual Private Networks",
-        "icon": "https://img.icons8.com/?size=100&id=9939&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=9939&format=png&color=000000"
     },
     {
         "name": "GitHub",
@@ -117,6 +117,6 @@
     },
     {
         "name": "Network Troubleshooting",
-        "icon": "https://img.icons8.com/?size=100&id=d6ETLEYig1GE&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=d6ETLEYig1GE&format=png&color=000000"
     }    
 ]
