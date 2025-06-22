@@ -12,8 +12,8 @@
         "icon": "https://img.icons8.com/?size=48&id=16205&format=png&color=000000"
     },
     {
-        "name": "Support",
-        "icon": "https://img.icons8.com/?size=48&id=42339&format=png&color=000000"
+        "name": "Tech Support",
+        "icon": "https://img.icons8.com/?size=48&id=Pmx0ESk1pQZj&format=png&color=000000"
     },
     {
         "name": "Firebase",
@@ -36,8 +36,8 @@
         "icon": "https://img.icons8.com/?size=48&id=3UwCJeV8Nwb2&format=png&color=000000"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Data Recovery",
+        "icon": "https://img.icons8.com/?size=48&id=0NP-dr80pqTN&format=png&color=000000"
     },
     {
         "name": "Sass",
@@ -60,12 +60,12 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+        "name": "Access Control",
+        "icon": "https://img.icons8.com/?size=48&id=VY70p4Y4r0Zp&format=png&color=000000"
     },
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "name": "Windows",
+        "icon": "https://img.icons8.com/?size=48&id=fnVkZemUpHhW&format=png&color=000000"
     },
     {
         "name": "Python",
@@ -76,15 +76,15 @@
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "name": "Virtualization",
+        "icon": "https://img.icons8.com/?size=48&id=YIQzef67QTPz&format=png&color=000000"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "Wireless Networks",
+        "icon": "https://img.icons8.com/?size=48&id=SG30Y0VpCW8E&format=png&color=000000"
     },
     {
-        "name": "PostgreSQL",
+        "name": "",
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
     {
@@ -92,31 +92,31 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+        "name": "LAN",
+        "icon": "https://img.icons8.com/?size=48&id=gVKAzyC4xpHN&format=png&color=000000"
     },
     {
         "name": "Netlify",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+        "name": "Lua",
+        "icon": "https://img.icons8.com/?size=48&id=mazno5QJBBis&format=png&color=000000"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Soldering",
+        "icon": "https://img.icons8.com/?size=48&id=Xtn9efvG24ry&format=png&color=000000"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "Threat Mitigation",
+        "icon": "https://img.icons8.com/?size=48&id=beLjeUKjyedK&format=png&color=000000"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+        "name": "Cloud Computing",
+        "icon": "https://img.icons8.com/?size=48&id=0yJDb9w0hHjf&format=png&color=000000"
     }    
 ]
