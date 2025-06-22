@@ -25,15 +25,15 @@
     },
     {
         "name": "Linux",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "icon": "https://img.icons8.com/?size=48&id=tmEqIUErLJVM&format=png&color=000000"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+        "name": "Apple Mac OS",
+        "icon": "https://img.icons8.com/?size=48&id=vCiwbOh7Uo7G&format=png&color=000000"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "name": "Network Security",
+        "icon": "https://img.icons8.com/?size=48&id=3UwCJeV8Nwb2&format=png&color=000000"
     },
     {
         "name": "Bootstrap",
